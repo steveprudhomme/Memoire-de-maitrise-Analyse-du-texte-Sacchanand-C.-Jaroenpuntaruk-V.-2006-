@@ -1,0 +1,301 @@
+
+
+The current issue and full text archive of this journal is available at 
+www.emeraldinsight.com/0264-0473.htm 
+Development of a web-based self-training package for information retrieval using the distance education approach 
+Chutima Sacchanand 
+School of Liberal Arts, Sukhothai Thammathirat Open University, 
+Bangkok, Thailand, and 
+
+
+Vipa Jaroenpuntaruk 
+School of Science and Technology, Sukhothai Thammathirat Open University, Bangkok, Thailand 
+Abstract 
+Purpose – The purpose of this project was to develop a web-based self-training package for information retrieval using the distance education approach. Design/methodology/approach – The package was developed using the distance education approach 
+with STOU Plan, STOU Plan 2000 and GMS-VU applied. The distance education model for the web-based self-training package was composed of .ve stages: identifying the learners, design of the package, production of the package, establishing the delivery system, and evaluation. The system development methodology was based on the system development lifecycle (SDLC) with a combination of waterfall, phased and prototyping approaches. There are several phase in SDLC to carry out: problem and objective identi.cation, requirement determination, requirement analysis, package design, package implementation, delivery system and evaluation. Evaluation of the package was conducted in two phases: formative evaluation and summative evaluation using the focus group discussion method. Formative evaluation was conducted during the package development by experts in the .eld prior to the summative evaluation. The summative evaluation was conducted after the package development had been completed as a pilot study for .eld trial by target users, consisting of junior library staff and library users. All comments were reviewed and re.ned in terms of instructional content, design, overall opinion and learning progress before put on production. 
+Findings – The package consists of three main components: About the project, Study modules, References and further readings. Study modules, which is the most important component, consists of ten instructional modules focusing on information retrieval, and self-assessment through pre-test and post-test. The package includes multimedia such as images and sound to attract learners during their learning session. The delivery mode for the self-training package offers both online and off-line modes. Online mode is offered when there is network facility and internet connection available, while of.ine mode is offered through CD-ROM without requiring network and internet connection. The features and functions of both modes are identical. Moreover, print materials are also included as supplementary media. 
+Originality/value – Since the module is a self-directed learning or self-training tool in information retrieval it can be employed for junior library staff and library users; it provides a training tool for librarians to train library users and supports human resource and development to narrow digital divides and support the right to access information. 
+Keywords E-learning, Computer based learning, Information retrieval, Distance learning 
+Paper type Research paper 
+Research Funded by the Advancement of Librarianship Program (ALP), International Federation of Library Associations and Institutions (IFLA) 2004. 
+
+Web-based self-training package 
+Received 23 May 2005 Revised 19 November 2005 Accepted December 2005 
+
+The Electronic Library Vol. 24 No. 4, 2006 pp. 501-516 q Emerald Group Publishing Limited 
+DOI 10.1108/02640470610689197 
+Introduction 
+The political, economic, social and technological context of education is changing. Education has been moving very fast during the past decade, from traditional classroom settings or face to face instruction and from correspondence study in the distance education system to online education. Of all possible distance education formats, the internet has become the most widely used (National Center for Education Statistics, 2002). The internet, a medium for information transmission, and especially the world wide web has broadened the scope of traditional education and conventional distance education to include e-learning, virtual universities, virtual courses and virtual libraries. A new form of teaching and learning, web-based instruction or online learning has gained considered popularity, especially in the .eld of library and information science. 
+Distance education, especially web-based instruction is an attractive mode of delivery for information literacy instruction and is a fully integrated instructional medium. It is a viable means to enhance information catering to professionals and workers to keep abreast with the changing workforce and provide greater impetus in the area of continuing education. Web-based instruction has many advantages. It enables individuals to learn by themselves and encourages self-directed learning, self re.ection, learner-centered learning and just in time learning. It also accommodates an individual’s learning style, promotes active learning, and broadens the scope of conventional distance education to anywhere, any time and any pace. 
+Due to the status reports provided by the 10th ASTINFO Consultative Meeting, Regional Seminar/Workshop on Information Education Strategies for the 21st Century, held in Beijing, China from September 18-19, 1995 and the Consultative Meeting and Workshop in Planning Human Resource Development for Information Societies, held in Bangkok, Thailand from March 3-7, 1997, the following courses of action were recommended on a regional basis: 
+(1) 	
+the need to retool and upgrade the skills of librarians who are already on stream in such areas as computing and telecommunications, in order to improve the quality of information services; 
+
+(2) 	
+the need to develop distance learning packages on speci.c topics to meet high priority training needs; and 
+
+(3) 	
+the meeting also agreed that distance learning is a mode that can be used for continuing education of information professionals and workers (STOU and UNESCO, 1997). 
+
+
+In addition, the evolution of information and communication technologies has presented a number of problems and challenges for policy-makers and administrators in the higher education .eld. A particularly important issue is the existence of “digital divides”, both among and within nations. In response to such issues, UNESCO with the support of Prof. Wang Yibing (Specialist in Higher Education) initiated a project for the establishment of a Greater Mekong Subregion Virtual University (GMSVU). The initial workshop on Feasibility Study for Establishment of Greater Mekong Subregion Virtual University (GMSVU), held at STOU in August 2001, identi.ed Tourism, ICT and Mekong Studies as the .rst three .elds of common interest that would form the components of a pilot project. 
+The GMSVU pre-pilot project proposed by Sukhothai Thammathirat Open University (STOU) had the following outcomes: 
+. 
+a virtual campus model adapted to the national context, including descriptions of organizational, functional and technical aspects; and 
+. 
+a prototype e-learning module installed on the VClass system and a method for evaluating the module for the GMSVU pre-pilot project (Jaroenpuntatuk, 2002; Sukhothai Thammathirat Open University, 2004). 
+Learning now has to be continuous and almost a “way of being” (Vaill, 1996). It can be anticipated that enormous changes in technological developments will continue in the twenty-.rst century and the need on the part of faculty and students to acquire computer and information skills will need to keep pace with other changes (Rader, 1998). Knowledge about effective and ef.cient access to information and the ability to retrieve and use information are a necessity. 
+This has given librarians opportunities to take a more central role in the distance education process. Their major missions are to .nd ways to ensure that distance learners have access to information resources, can acquire information skills and then become information literate. Librarians play a critical role in facilitating access to information, and this is re.ected in the changing titles that librarians are now given – including cybrarians, webrarians and knowledge of.cers. Librarians provide a wide variety of formal and informal instructional programs. 
+To support the changing environment and mentioned recommendations, and as distance education is the most useful and cost-effective means of enhancing or updating information and library skills and quali.cations (Stoker, 1995, p. 3) and information retrieval is one important performance indicator of information literacy, the researchers developed a project using the distance approach, aiming at junior library staff and library users in developing countries for self-directed learning in conducting their own searches, and for librarians in providing user education or information literacy instruction to library users especially distance learners. 
+The objective of the project was to develop a web-based self-training package for information retrieval using the distance education approach. This study is signi.cant in that: it is a self-directed learning or self-training tool in information retrieval for junior library staffs and library users; it provides a training tool for librarians to train library users; and it supports human resource development to narrow digital divides and support the right to access information. The expected outcome of the project is a web-based self-training package for information retrieval using the distance education approach offered both online and of.ine, and supplemented by printed materials. 
+Review of related literature 
+A review of literature involving studies and research relevant to distance education, web-based instruction and information literacy instruction was conducted. It is divided into the following major headings: distance education, distance learners, library services to distance learners, information literacy, teaching information retrieval, web-based instruction in information retrieval, librarians’ roles, and research related to information retrieval instruction. 
+The literature review shows that distance education has gained popularity in recent years due to its many strengths. Information and communication technologies have driven distance education forward from printed to digital resources and led to the emergence of a great number of distance learners. This has greatly affected ways of teaching and learning and led to educational reform and promotion of the realization of lifelong learning. Information literacy has become a survival skill which is desirable for all. Amidst the information revolution, knowledge and competencies in information retrieval are needed. Librarians share their roles with faculty in providing information literacy instruction to distance learners. 
+The library literature is replete with research studies on information literacy in academic libraries in a variety of specialized areas. However, less research has been done on library instruction to distance learners. While several surveys have been conducted to assess faculty attitudes or perceptions of library instruction, only a few address off-campus library services or adjunct faculty. Behrens (1993) in her study of lecturers’ attitudes to library skills at the University of South Africa, describes numerous obstacles to distance learning which have a direct bearing on the learning of library skills. These obstacles include faculty awareness of the role of library skills in independent learning, student and faculty workload and the time needed for additional library research beyond the compulsory study package, and faculty’s knowledge of library skills. It is apparent that faculty had not given the matter much thought. In 1998, the Association of College and Research Libraries (ACRL) and the American Association of School Librarians (AASL) formed a joint task force to examine the educational role of libraries. It is reported in the background of the blueprint for collaboration, that the associations share the goals of lifelong learning and ensuring that students at all educational levels are prepared to meet the challenges of the twenty-.rst century, through the development of information literacy skills. 
+The challenge of providing distant services to remote students will require unique attention to ensure that students are acquiring the skills necessary to become independent learners and not simply having librarians exercise these skills on their behalf (Adams et al., 1998, p. 4). Librarians can contribute actively by providing distance learners with various forms of library instruction, bibliographic instruction or user education for effective assessing and evaluation information sources. It is through the development of these generic skills that academic librarians can contribute to the creation of self-directed learners and self-reliant researchers (Popoola, 1992). They have an impact on lifelong learning by providing organized interfaces to resources and information in libraries and increasingly through the internet. Knowledge and skills in information retrieval have been shown as outcomes of information literacy instruction. In the ARCL “Objectives for information literacy instruction: a model statement for academic librarians”, information literate student who can retrieve information online or in person using a variety of methods is one performance indicator. 
+A variety of technologies have been used as delivery systems to facilitate distance learning and interactive activities between teachers and learners, especially web-based models of learning. The web is identi.ed by Casey (1998) as a technology acting as a source of information, electronic book, teacher, and communication medium between teachers and students, simultaneously. The world wide web is considered to be a tool appropriate for delivering instruction to a remote audience. Several web sites have been developed to provide learners with access to user education. 
+Web-based instruction enables individuals to learn by themselves, encourages self-directed learning, self re.ection, learner-centered learning, just in time learning, accommodates an individual’s learning style, active learning, and broadens the scope of conventional distance education to any where, any time and any pace. Vishwanatham et al. (1997) emphasized that the most important impact of online instruction was the ability to reach a larger number of users than would not have been possible in the traditional classroom setting while achieving a level of depth not 
+possible in the typical one-hour, one-meeting instruction class. 
+Web-based instruction has been used intensively with high priority on the development of information literacy skills among the students. It is an attractive mode of delivery for information literacy instruction and a fully integrated instructional medium for distance education as well as for conventional universities. The web has increasingly been integrated into both curriculum content and the teaching and learning process to enhance face-to-face courses in the traditional universities and supplement distance learning materials. Libraries have also been involved in providing information instruction via the web. 
+Research related to information retrieval instruction are mostly doctoral dissertations. They are relevant to information retrieval instruction or as part of information literacy instruction. Many research conducted show positive .ndings about the use of web-based instruction/tutorials as appropriate tools incorporated into existing educational programs and expanding programming opportunities for effective search, access and use of information from databases, and for personal, professional and instructional purposes. The learning theories, teaching method and instructional design tutorial models, e.g. model synthesizing both instructional design pedagogy and web-design concepts were proposed. In addition, search strategies, e.g. the use of Boolean and user interface features were also studied. 
+A previous study examined manual/electronic versus an electronic only approach to train novice database users in information retrieval from an electronic database. A total of 82 undergraduate university students were randomly assigned to one of two treatment groups: manual than electronic or electronic only. All participants completed instructional activities during stage one of the study using systematically designed instructional package which presented skills and concepts that had been de.ned as prerequisites for information retrieval. Participants then completed three sets of instructional activities during stage two of the study in which they developed, consolidated and applied information retrieval strategies in using an algo-heuristic model of information retrieval. During these instructional activities measures of retrieval effectiveness and retrieval ef.ciency were taken. Stage three of the study required participants to evaluate the accuracy of retrieved information, and measures of evaluation effectiveness were taken. The statistically signi.cant positive correlation between performance on the criterion-referenced mastery test and measures of information retrieval and evaluation performance provided support for the requirement for mastery of the de.ned entry level skills and concepts before participants begin electronic information retrieval. The study .ndings indicate that by achieving mastery of the de.ned entry level skills, and applying these skills using an algo-heuristic model for developing information retrieval strategies, some novice database users can achieve levels of competence equivalent to experienced database users with just six hours of instruction. 
+Previous research made randomized, blinded study addressed whether and to what extent the methodology by which information literacy skills instruction occurred impacted on .rst-year medical students’ information retrieval skills, perceptions regarding the use of library and information resources, and performance outcomes on a MEDLINE searching exercise. A group of 128 .rst year medical students enrolled in a problem-based learning course participated in information-retrieval skills training. Students were randomly assigned to one of two experimental groups. The control group participated in a traditional, instructor-lead information-retrieval training session, while the intervention group participated in identical instruction via a web-based tutorial. Data were gathered from several sources including: 
+(1) 	
+a pre-instruction survey and pre-test; 
+
+(2) 	
+the evaluation of students’ MEDLINE searches; 
+
+(3) 	
+a post-instruction survey and post-test; and 
+
+(4) 	
+a three-month follow-up survey measuring students’ use of information resources in support of PBL activities during the previous semester. 
+
+
+MEDLINE searching assignments directly linked to the PBL patient cases were electronically captured, blinded, and independently evaluated and scored by three reference librarians, allowing for a comprehensive analysis of students’ searching skills. Results provided a picture of students’ MEDLINE skills, information usage behaviors, and attitudes. Statistical tests showed that intervention group students scored an average of 2.84 out of a possible four points on the MEDLINE exercise, and control group students scored an average of 2.60. Follow-up data collected three months post-training examined students’ MEDLINE searching behaviors. 
+Results indicated that 55 percent of control group students performed six or more MEDLINE searches during the semester, while 38 percent of intervention group students used MEDLINE six or more times. The corresponding value of 0.053 approached statistical signi.cance. Librarians can use this information in designing and implementing more effective learning modules for both on-campus and off-campus learners, appropriately incorporating the use of web-based tutorials into existing educational programs, and expanding programming opportunities to include the integrated use of web-based and traditional learning modules. 
+Educational content on the internet is rapidly increasing. Academicians and businesses are placing more course material on-line to supplement classroom and business training situations. In addition signi.cant increases in undergraduate enrollments in information system courses and the rapid pace of new knowledge in the .eld leads researches to call for new innovative approaches to learning. 
+Prior researchers have reported that this new web-based training technology (which has its foundation in computer-based training) has not integrated sound pedagogical practices into the authoring process when developing new tutorials. Learning theories and concepts pertinent to instructional design tutorial models were reviewed and also the design factors affecting successful web-based tutorials were summarized. A model synthesizing both instructional design pedagogy and web-design concepts is proposed. 
+Research methodology 
+The self-training package for information retrieval employs the distance education approach to transfer knowledge and experience to students and users, with contents arranged into self-instructional packages in both online and of.ine forms supplemented by printed material. STOU Plan, STOU Plan 2000 and the GMSVU Model were applied in the development of the self-training package. The distance education model for the web-based self training package is composed of .ve stages: identifying the learners, design of the package, production of the package, establishing the delivery system and evaluation as shown in Figure 1. 
+(1) 	Identifying the learners through preliminary surveys. The target groups of this self-training package were identi.ed as follows: 
+. 
+they are distance learners, adult learners, and self-directed learners; 
+. 
+they are non-english native speakers, usually they use english as their second language; 
+. 
+they have high motivation and are willing to take responsibility for their own education. they learn in a variety of ways. they often feel compelled to take an active role in their own learning; and 
+. 
+their weaknesses are that they lack information literacy skills especially information retrieval. They need to undergo instruction in information literacy. 
+(2) 	Design of the self-training package. This includes analysis of subject contents and course modules, identifying learning objectives, and designing instructional media which must be set up in such a way as to .t the aim of the project, facilitate the use of distance teaching techniques and suit the 
+Figure 1. 
+Distance education model for the web-based self-training 
+characteristics and needs of target users of this self-training package. The self-training package was designed not only by the researchers but by the course team members, comprising six outstanding content specialists and an educational technologist in library and information science from various universities and agencies. It consists of three main components: about the project; study modules, which is the main component, and references and further reading. The delivery mode was online and of.ine, supplemented by printed materials. 
+(3) 	
+Production of the self-training package. At .rst in the project proposal, the researchers proposed to develop and choose CAI (computer assisted instruction) recorded on CD-ROM. After working on the project, the researchers decided to move to the “web” as a main media due to the rapid technological change during the time of working on the project and the many advantages of the web especially in relation to the idea of “anywhere, any time and any pace”. Therefore, the self-training package will be delivered in both online and of.ine modes, supplemented by printed media depending, upon the convenience of the target users. The web-based self-training package which contains various kinds of multi-media, comprising images, video, pictures and sound was evaluated in terms of content validity and instructional quality, visual and user interface design, multimedia design, audience consideration and overall opinion from six experts. In addition, the reliability was tested by carrying out a pilot study with a sample of six target users. 
+
+(4) 	
+Establishing delivery systems. In order to communicate knowledge to the learners. the distance education system established according to the “STOU Plan” “STOU Plan 2000” “GMSVU Plan” is thus in the nature of “anywhere”, “any time” and “any pace”. Course content is transferred to learners through web-based instruction. Learners are, therefore, able to obtain knowledge and experience from their homes, libraries, university campus and, educational study centers as well as the internet and their community. However, as developing countries still face problems relating to technological infrastructure and networks that limit access to the internet, the off-line and printed media were developed to bridge the digital divide. 
+
+(5) 	
+Evaluation. There are two types of evaluation. The .rst is evaluation of learners’ learning progress through self-assessment from pre-test and post-test and exercises at the end of each module. The second type of evaluation is system evaluation, which will be conducted in order to obtain feedback that can be used to improve the effectiveness of the self-training package and assure its quality. 
+
+
+Findings 
+The web-based self-training package for information retrieval was developed using the distance education approach. STOU Plan, STOU, 2000 and GMSVU were applied. The distance education model for the web-based self-training package is composed of six stages: identifying the learners, design of the package, production of the package, establishing delivery systems and evaluation. 
+The package development process is based on a System Development Life Cycle or SDLC. The process consists of problem and objective identi.cation, requirement determination, requirement analysis, package design, package implementation, delivery system and evaluation. The SDLC is applied a combination of waterfall, phased and prototyping approaches in order to maximize the outcome: 
+.  Waterfall  approach,  in  accordance  with  its  name,  the  development  moves  
+forward from phase to phase in the  same  manner  as  a  waterfall. The key  
+advantage of waterfall approach is that the system requirements  must  be  
+identi.ed clearly and explicitly. However, this approach tends to require long  
+development times, which affect budget and schedule.  
+.  Phased approach collects fundamental requirements which are categorized into a  
+series  of  versions.  The  .rst  version  will  serve  as  a  base  for  design  and  
+implementation. Phased development has the advantage of getting a system into  
+the users’ hands quickly. However, the drawback  of this approach is the  
+incomplete system that might be hard to manage and meets users’ expectations.  
+.  Prototyping  approach  performs  analysis,  design  and  implementation  
+concurrently and will iterate these activities repeatedly until the system is  
+complete. The researchers use the prototype as a requirement analysis tool for  
+the experts to offer comments and then proceed with the package re.nement to  
+re-analyze, re-design  and  re-implement  as  a  second  prototype.  After  the  
+prototype is completed, a .eld trial is carried out by distributing the working  
+prototype to the target groups for trial. This process continues in a cycle until the  
+prototype provides enough functionality.  
+
+The result of development is a self-training package which consists of three main components: 
+(1) 	
+About the project. This component provides information and background on the project. 
+
+(2) 	
+Study modules. This is the most important component since it provides self directed learning content. It consists of ten instructional modules focusing on information retrieval as shown in Figure 2 and Figure 3. Self-assessment through pretest and posttest as well as review questions to evaluate learning progress of learners are included. 
+
+(3) 	
+References and further readings. This provides references used by the researchers in doing this project and related URLs links to information resources for further readings. 
+
+
+The package evaluation was based on a focus group technique, which consisted of two phases: formative and summative evaluation: 
+(1) 	Formative evaluation was conducted during the package development. The formative evaluation was done by experts in the .eld before the summative evaluation. The purpose of this evaluation is to get feedback from experts in the .eld in terms of instructional quality and content validity; visual design, user interface design and multimedia design; expert consideration focuses on ease of use and clear navigation, with the content delivered to the target audiences in an appropriate manner; overall opinions toward the package and reliability of the package such as pre-test and post-test. 
+Figure 2. 
+An example of study modules 
+Figure 3. 
+An example of the content of module 1 
+
+(2) 	Summative evaluation was conducted as a pilot study after the package development was completed. All comments from the formative evaluation were reviewed and re.nement of the package was done before proceeding to target users namely, junior library staffs and library users, of the package. The purpose of summative of evaluation is to get feedback from target users of the package in terms of instructional quality, content validity, clarity in instructional content, explanation and presentation of content; visual design, user interface design and multimedia design; audience consideration and learning progress. 
+Data collection using group discussion with supplement interviews were chosen. For the experts group, the evaluation was based on the given criteria, for the formative evaluation as referred above. For target users, they assessed the package from their homes or of.ces, trying out the package as if in a real situation. The target users were required to proceed through four steps in pretest, learning the study modules with review questions, posttest and then evaluate the package. 
+Data analysis is based on qualitative data as the evaluation criteria are open and focus group discussion broadens the scope of feedback from both groups of participants. All comment of participants were grouped and analyzed for further package re.nement. 
+The evaluation results were used for package re.nement. There are two versions of the package: 
+(1) 	
+The .rst version is the prototype version used for the .eld trial. Researchers used all the comments of the experts to improve the prototype before release to the target users group for summative evaluation. 
+
+(2) 	
+The second version is the re.ned version to deliver to the target users who are junior library staffs and library users and other interested persons. The researchers improved the package based on the comments of the target user sample group during the summative evaluation. The .nal outcome is a working version, which will be accessible through the web. 
+
+
+The delivery system of the package can be both online and of.ine. Online mode needs an internet connection while of.ine mode uses CD-ROM without network correction. Printed materials are also included as supplementary media. The system and platform requirement for target learners to interact with the package is the common PC used in of.ces with internet connection. The web browser for the package can be Internet Explorer or others. 
+Discussion and recommendations 
+The strong points of the web-based self-training package are: 
+.  Accessibility.  Using  the  distance  education  approach  makes  the  package  
+accessible to all based on concept of anyone, anywhere, any pace and anytime. In  
+addition, it can be used as a means of extending continuing education to all  
+people, and providing lifelong education.  
+.  Flexibility. Using the web delivery mode helps broaden the scope of conventional  
+distance education  as  well  as  offering  an  open platform and compatibility  
+environment. The learners can access the web-based self-training package from  
+the  widest  possible  range  of  computing  and  communications  equipment.  
+Moreover, course design focusing on a learner-centered system provides .exible  
+and unrestricted learning environment. Therefore, learners can choose to learn  
+any module as appropriate for their individual learning needs.  
+.  Ease of use. Using simple language and basic concepts of information retrieval  
+helps facilitate the  success  of learners who  are  at  the beginning stage. In  
+addition, it  can  be used as  an  English training tool for  non  native English  
+speakers. The use of web standard language makes it easier for users to interact  
+and there is no steep learning curve.  
+
+The limitations of the web-based self-training package are: 
+.  Limitation of target users. As the content of the modules focuses on library staff  
+and users in the non-native speaking developing countries, the package might be  
+too simple for those who have more advanced knowledge and experience in the  
+.eld. However, the researchers solved this limitation by providing references and  
+related URLs for further studies.  
+.  Limitation of delivery system. The system to facilitate the e-learning mode has not  
+yet been implemented. These facilities include synchronous and asynchronous  
+mode  such  as  communication  tools  (e.g.  e-mail,  chat  room,  web-board),  
+interactive tools (e.g. thread discussions, chat-room), knowledge-based system,  
+and learning management service (e.g. registration, information).  
+
+Recommendations 
+The researchers recommend the following courses of action for future improvement and research: 
+. 
+Extend to e-learning environment with interactive learning environment such as collaborative and communication tools, learning management service, assessment system, learning administration system, database and knowledge based system. 
+. 
+Develop more self training packages in other speci.c topics using the e-learning approach to meet high priority training needs of librarians. This will support the recommendation of the UNESCO Consultative Meeting and Workshop in Planning Human Resource Development for Information Societies held in Bangkok (1997). 
+. 
+Develop a joint project between IFLA-ALP and UNESCO to offer certi.cate programs and training courses in library and information science through the GMSVU. The pilot project could start with the extension of this package to an e-learning environment. 
+. 
+Develop a pilot project on digital library models for developing countries in the Asia Paci.c region. 
+Conclusions 
+This paper has descibed a project the aim of which was to develop a web-based self-training package for information retrieval using the distance education approach. The package was developed with STOU Plan, STOU Plan 2000 and GMSVU applied. The distance education model for the web-based self-training package was composed of .ve stages: identifying the learners, design of the package, production of the package, establishing the delivery system, and evaluation. The system development methodology was based on the System Development Life Cycle (SDLC) with a combination of waterfall, phased and prototyping approaches. Several phases in the SDLC were carried out: problem and objective identi.cation, requirement determination, requirement analysis, package design, package implementation, delivery system and evaluation. Evaluation of the package was conducted in two phases: formative evaluation and summative evaluation using the focus group discussion method. Formative evaluation was conducted during the package development by experts in the .eld prior to the summative evaluation. The summative evaluation was conducted after the package development had been completed as a pilot study for .eld trial by target users, consisting of junior library staffs and library users. All comments were reviewed and re.ned in terms of instructional content, design, overall opinion and learning progress before put on production. It is evident that further reseach is necessary to extend the e-learning environment. 
+References 
+Adams, K., Bicknell-Holmes, T. and Latta, G.F. (1998), “Supporting distance learners and academic faculty teaching at a distance”, paper presented at the 14th Annual Conference on Distance Teaching and Learning, University of Wisconsin-Madison, Madison, WI. 
+Behrens, S.J. (1993), “Obstacles to user education for off campus students: lecturers’ attitudes to library skills”, Proceedings of the Sixth Off-campus Library Services Conferences, Central Michigan University, Mt. Pleasant, MI. 
+Casey, D. (1998), Learning “from” or “through” the web: models of web based education, available at: www.acm.org/pubs/citations/proceedings/cse/282991/p.51-case 
+Jaroenpuntaruk, V. (2002), “STOU infrastructure for distance education”, paper presented at the 1st Task Force Workshop on IT Programme for GMSVU Pilot Project, Hanoi, Vietnam, available at: www.stou.ac.th/Thai/GMSVU/Index.asp 
+National Center for Education Statistics (2002), The Condition of Education 2002, available at: http://nces.ed.gov/pubs2002/2002025_5.pdf 
+Popoola, M.O. (1992), “The role of libraries in the promotion of independent study in developing countries”, Research strategies, Vol. 10 No. 4, pp. 161-9. 
+Rader, H.B. (1998), “Information literacy: the professional issue”, College & Research Libraries News, Vol. 59 No. 3, pp. 171-2. 
+STOU and UNESCO (1997), Planning Human Resources Development for Information Societies. Bangkok, Sukhothai Thammathirat Open University, and UNESCO, Bangkok, (Supported by the Ministry of Education, Science, Sports & Culture. Government of Japan). 
+STOU (2004), Final Report Pre-Pilot Project to Establish the Greater Mekong Sub-region Virtual University (GMSVU), submitted to the United Nations Educational, Scienti.c and Cultural Organization (UNESCO), STOU, Nonthaburi. 
+STOU (2000), STOU Plan 2000, STOU, Nonthaburi. 
+Stoker, D. (1995), “Editorial: information and library studies at a distance”, Journal of 
+
+Librarianship and Information Science, Vol. 27, March, pp. 3-5. 
+
+Vaill, P.B. (1996), Learning as a Way of Being, Jossey-Bass, San Francisco, CA. 
+Vishwanatham, R., Wikins, W. and Jevee, T. (1997), “The internet as a medium for online 
+instruction”, College & Research Libraries, Vol. 58 No. 5, pp. 433-44. 
+
+Further reading 
+Al-Qallaf, C.L. (2000), “Faculty perceptions of the information literacy skills of undergraduate students in Kuwait University”, Singapore Journal of Library & Information Management, Vol. 29, pp. 69-94. 
+Anderson, E., Gosling, M. and Mortimer, M. (1998), Learn Basic Library Skills, Docmatrix, Canberra. 
+Association of College and Research Libraries (1992), “Standards for faculty status for college and university librarians”, available at: www.ala.org/acrl/guideindex/html 
+Association of College and Research Libraries (1998), “ACRL guidelines for distance learning library services”, College & Research Libraries News, Vol. 59 No. 8, pp. 689-94. 
+Association of College and Research Libraries (2000), “Blueprint for collaboration AASL/ACRL task force on the educational role of libraries”, available at: www.ala.org/acrl/blueprint/ html/guides/index/html 
+Association of College and Research Libraries (2001), “Objectives for information literacy instruction: a model statement for academic librarians”, available at: www.ala.org/acrl/ guides/objinfolit.html 
+Association of College and Research Libraries (2001), “Presidential committee on information literacy”, available at: www.ala.org/acrl/nili/ilit1st.html 
+Association of College and Research Libraries (2002), “Introduction to IL”, available at: www. csusm.edu/acrl/il/intro/newil.html 
+Brown, C.M. (1999), “Information literacy of physical science graduate students in the information age”, College & Research Libraries, Vol. 60 No. 5, pp. 426-37. 
+
+Bruce, C. (1977), The Seven Faces of Information Literacy, Aslib, Adelaide. 
+Buckland, M., Butler, M.H., Kim, Y., Norgard, B. and Plaunt, C. (1995), “Partnerships in navigation: an information retrieval research agenda”, paper presented at the ASIS Annual Meeting, October, Chicago, IL, available at: www.asis.org/asis-95/appers/norgard. html 
+Caspers, J., Fritts, J. and Gover, H. (2001), “Beyond the rhetoric: a study of the impact of the ACRL guidelines for distance learning library services on selected distance learning programs in higher education”, Journal of Library Administration, Vol. 31 Nos 3/4, pp. 127-48. 
+
+Cavanagh, A.K. (2001), “Providing services and information to the dispersed off-campus student: an integrated approach”, Journal of Library Administration, Vol. 149-66. 
+Clyde, S.E. (1997), “Library bibliographic instruction: a challenge to deliver off campus”, Journal of Distance Education, Vol. 15 No. 1, pp. 109-13. 
+Cooper, R., Dempsey, P.R., Menon, V. and Millson-Martula, C. (1998), “Remote library users-need and expectation”, Library Trends, Vol. 47 No. 1, pp. 1-14. 
+Dennis, A. and Wixom, B.H. (2003), System Analysis and Design, 2nd ed., John Wiley and Sons, New York, NY. 
+Dhanarajan, G. (2001), “Distance education: promise, performance and potential”, Open Learning, 
+Vol. 16 No. 1, pp. 61-8. 
+Dragulanecu, N.-G. (2002), “Website quality evaluations: criteria and tools”, International 
+Information and Library Review, Vol. 34, pp. 247-54. 
+
+Drake, M.A. (Ed.) (2003), Encyclopedia of Library and Information Science, Marcel Dekker, New York, NY. 
+Edwards, J. (2000), “Librarians and online education”, available at: www.alia.org.au/branches/ gld/guill/2000.4/online.education.html 
+Feather, J. and Sturges, P. (Eds.) (2001), International Encyclopedias of Information and Library Science, Routledge, London. 
+Fleming, J. (1998), Web Navigation: Design the User Experience, O’Reilly & Associates, Cambridge, MA. 
+Fordham, P. (Ed.) (1992), Education for All: An Expanded Vision, UNESCO, Paris. 
+Irving, A. (1992), Marketing the Information Profession to the Information Society, Library Association, London. 
+Jaroenpuntaruk, V. (2002), “ICT program for the GMSVU pre-pilot project”, paper presented at the 2nd Task Force Workshop on IT Programme for GMSVU Pilot Project, Nonthaburi. 
+Hoffer, J.A., George, J.F. and Valacich, J.S. (2003), Modern Systems Analysis and Design, 2nd ed., Addison Wesley, Glenview, IL. 
+Whitten, J.L., Bentley, L. and Dittman, K.C. (2001), System Analysis and Design Methods, 5th ed., McGraw-Hill, New York, NY. 
+Kendall, K.E. and Kendall, J.E. (2002), Systems Analysis and Design, 6th ed., Prentice Hall, Upper 
+Saddle River, NJ. 
+Lance, K. and Potter, S. (1995), “Integrating library instruction into course modules”, In Jacob, C.J. (comp.) The Seventh Off-campus Library Services Conference Proceedings. Central Michigan University, Mount Pleasant, MI. 
+Lane, N.D. (1996), Techniques for Student Research: A Practical Guide, 2nd ed., Addison Wesley Longman, Glenview, IL. 
+Markowitz, H. (1990), Distance Education: Staff Handbook. “The Guide Series.”, University of Illinois at Urbana-Champaign, Urbana-Champaign, IL. 
+Matthews, J.R., Bowen, J.M. and Matthews, R.W. (2000), Successful Scienti.c Writing, Cambridge 
+University Press, Cambridge. 
+McConnell, S. (1996), Rapid Development, Microsoft Press, Redmond, WA. 
+Niemi, J.A., Ehrhard, B.J. and Neeley, L. (1998), “Off-campus library support for distance adult 
+learners”, Library Trends, Vol. 47 No. 1, pp. 65-74. 
+Nisbet, J. and Shucksmith, J. (1986), Learning Strategies, Routledge and Kegan Paul, London. 
+Oesterlin, J. (1991), “Cooperative planning and teaching at Mackellar”, in Henri, J. (Ed.), 
+Collaborative Teaching and Learning, Centre for Information Studies, Wagga Wagga, Occasional monographs no. 2. 
+Peacock, J. (2001), ALIA Information Literacy Forum-Debate Topics, available at: www.alia.org. au/groups/infolit/debate.topic/2001.08.p1.htm 
+Peters, O. (1989), “The Tieberg has not milked: further re.ections on the concept of industrialization and distance teaching”, Open Learning, Vol. 6, pp. 3-8. 
+
+Phipps, R. (1999), What is the Difference? A Review of Contemporary Research on the Effectiveness of Distance Learning in Higher Education, Institute for Higher Education Policy, Washington, DC. 
+Riggs, D. (1997), “Distance education: rethinking practices, implementing new approach”, College 
+and Research Libraries, Vol. 58, pp. 208-9. 
+
+Rijsbergen, D.J.Van (1979), “Information retrieval”, available at: www.dcs.gla.ac.uk/keith/ Preface.html/ http://sherlock.berkeley.edu/IS205/IR_CJVR 
+Rodrigues, H.F. (1996), “The role of the library in distance education”, Micro Computer for Information Management, Vol. 13 No. 1, pp. 21-9. 
+Sacchanand, C. (1998), “Distance education in library and information science in the Asia-Paci.c region”, paper presented at the RSAO, 64th International Federations of Library Associations and Institutions, Amsterdam, August 21, 1998. 
+Sacchanand, C. (1988), “A multi-media distance-education approach to teaching information science: Thailand’s experience”, paper presented at the 10th FID/CAO Congress and General Assembly, “The Use of New Information Technologies in Developing Countries,” Beijing. 
+Sacchanand, C. (1999), “Distance education in library and information science in Asia and the 
+Paci.c Region”, IFLA Journal, Vol. 25 No. 2, pp. 97-100. 
+Shillinglaw, N. (1995), “Academic transformation and library information service at the University of South Africa”, in Jacob, C.J. (comp.), The Seventh Off-Campus Library Services Conference Proceeding’s, Central Michigan University, Mount Pleasant, MI. 
+Smith, A.G. (1997), “Testing the surf: criteria for evaluating internet information resources”, The Public-Access Computer Systems Review, Vol. 8 No. 3, available at: http://info.lib.uh. edu/pr/v8/n3/smit8n3.html (accessed October 12, 2003). 
+Smith, S.S. (2001), Web-Based Instruction: A Guide for Libraries, American Library Association, Chicago, IL. 
+South African Institute for Distance Education (SAIDE) (1994), Open Learning and Distance Education in South Africa. Report of the International Commission, SAIDE, Braamfontein. 
+Srisa-an, W. (1986), “Higher education development in Thailand”, Distance Education, STOU, Nonthaburi. 
+McConnell, S. (1996), Rapid Development, Microsoft Press, Redmond, WA. 
+Stueart, R.D. (1997), “Preparing information professionals for the next century”, Planning Human Resource Development for Information Societies, STOU & UNESCO, Bangkok. 
+Thomas, G.M. (1995), “Education-past, present, future”, in Walling, D.R. (Ed.), At the Threshold of the Millennium, Phi Delta Kappa, Bloomington, IN. 
+UNESCO (2003), UNESCO Thesaurus: Hierarchical List, available at: www.wlcc.ac.uk/unesco/ MTterms/530.htm. 
+Weilbut, V. (1999), “Developing information literacy: a coordinated effort”, Library Hi Tech News, Vol. 159, January/February, pp. 4-5. 
+Weiss, S. (2004), “Information retrieval projects”, available at: www.cs.jhu.edu/ ,weiss/projects.html (accessed June 21, 2004). 
+Whitson, D.L. and Amstuz, D.D. (1997), Accessing Information in a Technological Age, Krieger Publishing, Malabar, FL. 
+About the authors 
+Chutima Sacchanand is Associate Professor, School of Liberal Arts, Sukhothai Thammathirat 
+Open University, Thailand and was the Head of Project. He has a BA, MA (Library Science), MLS 
+(Information Science), and EdD from Charles Sturt University, Australia. He was President of the 
+Thai Library Association from 1999 to 2000. Chutima Sacchanand can be contacted at: 
+chutimastou@yahoo.com Vipa Jareonpantarak is Associate Professor, School of Science and Technology, Sukhothai 
+Thammathirat Open University, Thailand. He had a BSc, MSc (Computer Science), PhD 
+(Computer Science) from the Illinois Institute of Technology, USA. 
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com Or visit our web site for further details: www.emeraldinsight.com/reprints 
+
+
+
